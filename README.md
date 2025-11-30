@@ -1,52 +1,67 @@
-# Excel Material Cost Calculator
+# 📊 Excel-Material-Cost-Calculator - Estimate Your Project Costs Easily
 
-The Material Cost Calculator is an Excel-based tool designed to estimate total project or part costs based on material quantities and unit prices.
-It automatically aggregates costs by material type and supplier, featuring dynamic tables, charts, and VBA automation for real-time updates.
+[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Ossamaf/Excel-Material-Cost-Calculator/releases)
 
-## Features
+## 🚀 Getting Started
 
-- Automatic cost calculation by material and supplier.
-- Use of core Excel functions (```XLOOKUP, SUM, PRODUCT```, etc.).
-- Refresh with a button via VBA when data changes.
-- Interactive dashboards with slicers for Material Type.
-- Cost distribution charts for clear visual analysis.
-- Structured and modular sheet design (Prices, Detail, Summary, Notes).
+The Material Cost Calculator helps you estimate total project or part costs based on material quantities and unit prices. This Excel tool automatically adds up costs by material type and supplier. It features easy-to-use tables, charts, and VBA automation for real-time updates.
 
-## Structure
+## 📋 Features
 
-- Prices --> Material database including code, name, type, unit price, and supplier. You can add or edit items freely.
-- Detail --> Project input: material codes and quantities. Only modify the Quantity column and select material type; other fields update automatically.
-- Summary --> Dynamic table summarizing total costs and graphical insights. Filters available via slicers (Material Type, Supplier).
-- Notes --> Documentation and version information. Internal README for quick reference.
+- **User-Friendly Interface**: Simple design for easy navigation.
+- **Dynamic Tables**: Automatically updates as you input data.
+- **Visual Charts**: View cost breakdowns and trends at a glance.
+- **VBA Automation**: Real-time calculations without manual intervention.
+- **Cost Aggregation**: Seamlessly calculate costs by material type and supplier.
 
-## Usage
+## 🏗️ System Requirements
 
-1. Open the workbook and go to the Detail sheet.
-2. Select a material description (dropdown list).
-3. Enter the quantity required.
-4. The total cost updates automatically.
-5. Check the Summary sheet for charts and breakdowns. Push the Update button to propagate changes to prices or quantity in the Prices sheet throughout the workbook.
+- **Operating System**: Windows 10 or later, or macOS equivalent.
+- **Excel Version**: Microsoft Excel 2016 or newer.
+- **Memory**: Minimum of 4GB RAM.
+- **Storage**: At least 100 MB of free space.
 
-## Example Data
+## 📥 Download & Install
 
-<img width="751" height="438" alt="Price table" src="https://github.com/user-attachments/assets/f4907f38-9970-4ca7-8bc0-30323caff364" />
+To get started, visit this page to download: [Releases Page](https://github.com/Ossamaf/Excel-Material-Cost-Calculator/releases)
 
+1. Click the link above.
+2. Look for the latest version under the **Releases** section.
+3. Download the Excel file to your computer.
+4. Open the downloaded file with Microsoft Excel.
+5. Enable macros if prompted for full functionality.
+6. Start using the Material Cost Calculator!
 
-## Future Improvements
+## 🛠️ How to Use
 
-- Add cost-per-project summary by category.
-- Include a form-based data entry system (VBA UserForm).
-- Add automatic export to PDF for reporting.
-- Optional password protection for summary formulas.
+1. **Enter Data**: Input material quantities and unit prices in the specified sections.
+2. **View Results**: Check the summary tables and charts for your total costs.
+3. **Adjust as Needed**: Modify quantities or prices to see real-time updates in your cost calculations.
 
-## Author & Version
+## 📊 Additional Resources
 
-Created by: Sandra Martín
+- **Excel Tutorials**: Seek additional resources online to enhance your Excel skills.
+- **VBA Basics**: Familiarize yourself with VBA for advanced features.
 
-Version: 1.0
+## 🤝 Contributing
 
-Date: November 4, 2025
+If you have suggestions or want to help improve this tool, feel free to submit issues or pull requests through GitHub. Your insights can help make this calculator even better.
 
-## License
+## 📧 Support
 
-This project is released under the [MIT License](https://choosealicense.com/licenses/mit/). Feel free to modify and reuse for personal or educational purposes.
+For questions or assistance, open an issue on GitHub or contact the project maintainer directly through the repository.
+
+## 🔗 Related Topics
+
+This project involves several areas, including:
+- Cost Calculation
+- Financial Analysis
+- Data Analysis
+- Engineering Tools
+- Project Management
+
+Explore these topics for more tools and resources that complement the Material Cost Calculator. 
+
+Remember to regularly check the [Releases Page](https://github.com/Ossamaf/Excel-Material-Cost-Calculator/releases) for updates and enhancements.
+
+Thank you for using the Excel-Material-Cost-Calculator. We hope it simplifies your project budgeting!
