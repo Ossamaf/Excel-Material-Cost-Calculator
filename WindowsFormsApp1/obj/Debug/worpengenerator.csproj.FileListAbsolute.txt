@@ -17,3 +17,13 @@ C:\Users\Ossamah\Downloads\22-03-19 software\WindowsFormsApp1\obj\Debug\worpenge
 C:\Users\Ossamah\Downloads\22-03-19 software\WindowsFormsApp1\obj\Debug\worpengenerator.csproj.CoreCompileInputs.cache
 C:\Users\Ossamah\Downloads\22-03-19 software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Ossamah\Downloads\22-03-19 software\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Ossamah\Desktop\test\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Ossamah\Desktop\test\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Ossamah\Desktop\test\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Ossamah\Desktop\test\WindowsFormsApp1\obj\Debug\worpengenerator.csprojAssemblyReference.cache
+C:\Users\Ossamah\Desktop\test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Ossamah\Desktop\test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Ossamah\Desktop\test\WindowsFormsApp1\obj\Debug\worpengenerator.csproj.GenerateResource.cache
+C:\Users\Ossamah\Desktop\test\WindowsFormsApp1\obj\Debug\worpengenerator.csproj.CoreCompileInputs.cache
+C:\Users\Ossamah\Desktop\test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Ossamah\Desktop\test\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
